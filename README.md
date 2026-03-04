@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=240&amp;section=header&amp;text=Vishnu%20Kerasiya&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Freelance%20Full%20Stack%20%26%20Mobile%20App%20Developer&amp;descAlignY=56&amp;descSize=20&amp;descColor=93c5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Vishnu%20Kerasiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Full%20Stack%20and%20Mobile%20App%20Developer&descAlignY=58&descSize=20&descColor=e0d7ff"/>
 
 <!-- Availability Badge -->
 <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
@@ -9,7 +9,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Location-India%20%7C%20Remote%20Friendly-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<br/><br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=🚀+Available+for+Freelance+%7C+Full+Stack+%26+Mobile+App+Developer;⚡+React+%7C+Next.js+%7C+Node.js+%7C+React+Native+%7C+Flutter;🌍+Working+with+Clients+Worldwide+%7C+Remote+Friendly;📦+5%2B+Years+%7C+15%2B+Projects+%7C+10%2B+Apps+Shipped;💬+First+Consultation+Free+%7C+Respond+Within+24+Hours;🔥+Clean+Code+%7C+On-Time+Delivery+%7C+Post-Launch+Support" alt="News Ticker"/>
+
+<br/>
 
 [![Hire Me](https://img.shields.io/badge/HIRE%20ME%20NOW-vishnukerasiya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnukerasiya@gmail.com)
 &nbsp;&nbsp;
