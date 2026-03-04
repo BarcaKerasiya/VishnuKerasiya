@@ -1,167 +1,84 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vishnu%20Kerasiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=58&descSize=20&descColor=e0d7ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=240&amp;section=header&amp;text=Vishnu%20Kerasiya&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Freelance%20Full%20Stack%20%26%20Mobile%20App%20Developer&amp;descAlignY=56&amp;descSize=20&amp;descColor=93c5fd"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;React+Native+%7C+Flutter+Mobile+Apps;Turning+ideas+into+digital+reality+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Availability Badge -->
+<img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Response-Within%2024%20Hours-f59e0b?style=for-the-badge&logo=clockify&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-India%20%7C%20Remote%20Friendly-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=VishnuKerasiya&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<a href="https://vishnukerasiya.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-vishnukerasiya.com-7c3aed?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:vishnukerasiya@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-vishnukerasiya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Hire Me](https://img.shields.io/badge/HIRE%20ME%20NOW-vishnukerasiya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnukerasiya@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/See%20My%20Work-vishnukerasiya.com-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://vishnukerasiya.com/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerasiya-vishnu-0j7j1j0j/)
 
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-```typescript
-const vishnu: FullStackDeveloper = {
-  name:        "Vishnu Kerasiya",
-  title:       "Full Stack Developer & Mobile App Developer",
-  location:    "India 🇮🇳",
-  portfolio:   "https://vishnukerasiya.com",
-  email:       "vishnukerasiya@gmail.com",
-
-  expertise: {
-    frontend:   ["React.js", "Next.js", "TypeScript", "Redux", "Tailwind CSS"],
-    backend:    ["Node.js", "NestJS", "Express.js", "REST APIs", "GraphQL"],
-    mobile:     ["React Native", "Flutter", "Cross-Platform Apps"],
-    databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    devOps:     ["Docker", "AWS", "CI/CD", "Git", "Linux"],
-  },
-
-  currentFocus:  "Building scalable full-stack products & stunning mobile experiences",
-  funFact:       "I write cleaner code after my second coffee ☕",
-};
-```
-
----
-
-## 🚀 Tech Stack & Skills
-
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
-
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 🛠️ Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VishnuKerasiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKerasiya&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuKerasiya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border_radius=12" alt="GitHub Streak"/>
-</div>
+## 🚀 You have an idea. I'll make it real.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuKerasiya&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true&radius=8" alt="Contribution Graph"/>
+*I'm a freelance developer with **5+ years** of experience building web and mobile products for startups, businesses, and entrepreneurs worldwide. I don't just write code — I deliver working products that solve problems.*
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Services I Offer
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishnuKerasiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💡 What I Build
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="220px">
+<td width="50%" valign="top">
 
-**🌐 Web Apps**
+### 🌐 Web App Development
+Full-stack web applications using **React.js** / **Next.js** (frontend) and **Node.js / NestJS / Express.js** (backend).
 
-Full-stack web applications with React/Next.js frontends and Node.js/NestJS backends. Scalable, performant, and production-ready.
-
-</td>
-<td align="center" width="220px">
-
-**📱 Mobile Apps**
-
-Cross-platform mobile applications using React Native & Flutter – shipping to both iOS and Android from a single codebase.
+✅ Landing pages & business websites  
+✅ SaaS dashboards & admin panels  
+✅ E-commerce platforms  
+✅ Custom web portals  
 
 </td>
-<td align="center" width="220px">
+<td width="50%" valign="top">
 
-**🔗 REST & GraphQL APIs**
+### 📱 Mobile App Development
+Cross-platform apps for **iOS & Android** that look and feel native — from MVP to full product.
 
-Clean, documented, and secure APIs built with Express.js and NestJS. Authentication, rate limiting, caching – done right.
+✅ React Native apps  
+✅ Flutter apps  
+✅ App Store & Play Store deployment  
+✅ API integration & push notifications  
 
 </td>
-<td align="center" width="220px">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**☁️ Cloud & DevOps**
+### ⚙️ API & Backend Development
+Robust backend systems, REST APIs, and integrations that power your product reliably.
 
-Deploying to AWS, containerizing with Docker, setting up CI/CD pipelines, and configuring Nginx for production workloads.
+✅ REST API / GraphQL development  
+✅ Auth systems (JWT, OAuth, OTP)  
+✅ Payment gateway integration  
+✅ Real-time features (Socket.io)  
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Bug Fixes & App Upgrades
+Already have a product that needs work? I jump in fast and fix issues without breaking things.
+
+✅ Bug fixes & performance issues  
+✅ New feature additions  
+✅ Code refactoring & optimization  
+✅ Tech stack migration  
 
 </td>
 </tr>
@@ -169,21 +86,115 @@ Deploying to AWS, containerizing with Docker, setting up CI/CD pipelines, and co
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Why Clients Choose Me
+
+```
+✦ 5+ years of real-world development experience
+✦ Full-stack expertise — I handle frontend, backend & mobile alone
+✦ Clean, scalable code you can hand off to any dev later
+✦ On-time delivery with transparent communication throughout
+✦ I ask the right questions BEFORE writing a single line of code
+✦ Post-delivery support — I don't disappear after handoff
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+</td>
+<td align="center">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td align="center">
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+</td>
+<td align="center">
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📋 My Freelance Process
+
+| Step | What Happens |
+|:---:|:---|
+| 1️⃣ **Discovery Call** | We discuss your idea, goals, and what success looks like |
+| 2️⃣ **Proposal** | I send a clear scope, timeline, and fixed-price or hourly quote — no surprises |
+| 3️⃣ **Development** | I build in milestones with regular demos so you're never in the dark |
+| 4️⃣ **Review & Revisions** | Your feedback is incorporated — I iterate until you're happy |
+| 5️⃣ **Delivery** | Clean code handoff, deployment, full documentation |
+| 6️⃣ **Post-Launch Support** | I'm available for fixes, updates, and improvements after launch |
+
+---
+
+## 📊 Numbers That Matter
 
 <div align="center">
 
-<a href="https://vishnukerasiya.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌍_Portfolio-vishnukerasiya.com-7c3aed?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kerasiya-vishnu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:vishnukerasiya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+| 🗓️ Years of Experience | 🚀 Projects Delivered | 📱 Mobile Apps Shipped |
+|:---:|:---:|:---:|
+| **5+ Years** | **15+ Projects** | **10+ Apps** |
+
+</div>
+
+---
+
+
+
+
+<div align="center">
+
+## 📬 Let's Build Something Great Together
+
+**Have a project in mind? Tell me about it — first consultation is free.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📩_Email_Me-vishnukerasiya@gmail.com-EA4335?style=for-the-badge)](mailto:vishnukerasiya@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerasiya-vishnu-0j7j1j0j/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-7c3aed?style=for-the-badge)](https://vishnukerasiya.com/)
+
+<br/>
+
+*I typically respond within **24 hours**. Let's turn your idea into a product.*
 
 </div>
 
@@ -191,20 +202,7 @@ Deploying to AWS, containerizing with Docker, setting up CI/CD pipelines, and co
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishnuKerasiya/VishnuKerasiya/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishnuKerasiya/VishnuKerasiya/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VishnuKerasiya/VishnuKerasiya/output/github-snake.svg"/>
-</picture>
 
-</div>
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-
-**⭐ If you find my work useful, consider giving it a star — it means the world! ⭐**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 
 </div>
