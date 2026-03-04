@@ -9,11 +9,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Location-India%20%7C%20Remote%20Friendly-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=🚀+Available+for+Freelance+%7C+Full+Stack+%26+Mobile+App+Developer;⚡+React+%7C+Next.js+%7C+Node.js+%7C+React+Native+%7C+Flutter;🌍+Working+with+Clients+Worldwide+%7C+Remote+Friendly;📦+5%2B+Years+%7C+15%2B+Projects+%7C+10%2B+Apps+Shipped;💬+First+Consultation+Free+%7C+Respond+Within+24+Hours;🔥+Clean+Code+%7C+On-Time+Delivery+%7C+Post-Launch+Support" alt="News Ticker"/>
-
-<br/>
+<br/><br/>
 
 [![Hire Me](https://img.shields.io/badge/HIRE%20ME%20NOW-vishnukerasiya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnukerasiya@gmail.com)
 &nbsp;&nbsp;
